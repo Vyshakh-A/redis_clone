@@ -11,7 +11,7 @@ A Redis-compatible server written in C from scratch, as a learning project.
 ## Build and run
     make
     ./redis_clone
-    redis-cli set name vyshakh   # in another terminal
+    redis-cli set name <anything>   # in another terminal
 
 ## Roadmap
 - [ ] DEL
